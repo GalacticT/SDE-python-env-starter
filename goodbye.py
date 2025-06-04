@@ -1,1 +1,4 @@
-def say_goodbye
+def say_goodbye():
+    print('GOODBYE!!')
+
+say_goodbye():
